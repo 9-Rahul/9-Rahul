@@ -11,7 +11,7 @@
 
 ---
 
-I build things. Frontend-heavy full-stack apps — fast, clean, and production-ready.
+I build things. Frontend-heavy full-stack apps -> fast, clean, and production-ready.
 
 My instinct when something bothers me is to build a better version of it.  
 Gmail felt cluttered → [built a cleaner client](https://github.com/9-Rahul/custom-gmail).  
@@ -25,13 +25,13 @@ Reading codebases felt painful → [built an AI that chats with them](https://gi
 | Project | What it does |
 |---|---|
 | **[CaptainCRM](https://github.com/9-Rahul/captain-crm)** | AI agent that predicts customer churn using Stripe + Zendesk data |
-| **[Atrio CRM](https://github.com/9-Rahul/hotel-crm)** | Hotel CRM with an AI command palette — type a command, it handles the rest |
+| **[Atrio CRM](https://github.com/9-Rahul/hotel-crm)** | Hotel CRM with an AI command palette - type a command, it handles the rest |
 | **[RepoLens](https://github.com/9-Rahul/repo-lense)** | Chat with any GitHub repo using vector search + Gemini AI |
 | **[Inboxara](https://github.com/9-Rahul/custom-gmail)** | Minimal Gmail client with AI email triage |
-| **[Drivana](https://github.com/9-Rahul/custom-drive)** | Hyper-minimal Google Drive client — speed over everything |
+| **[Drivana](https://github.com/9-Rahul/custom-drive)** | Hyper-minimal Google Drive client - speed over everything |
 | **[Exec Tracks](https://github.com/9-Rahul/progress-tracker)** | Habit tracker with streaks and shareable public reports |
 | **[Clipchamp Clone](https://github.com/9-Rahul/clipchamp-clone)** | Pixel-perfect enterprise UI reconstruction |
-| **[Kosmik UI](https://github.com/9-Rahul/kosmik-ui)** | Glassmorphism stress-test — pushed browser rendering limits |
+| **[Kosmik UI](https://github.com/9-Rahul/kosmik-ui)** | Glassmorphism stress-test - pushed browser rendering limits |
 
 ---
 
