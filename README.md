@@ -27,7 +27,7 @@ I build real-time applications and AI-powered products with a focus on speed, pr
 
 ---
 
-## 🚀 Shipped Projects
+## Shipped Projects
 
 ### Full-Stack Applications
 
