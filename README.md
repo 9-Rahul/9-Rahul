@@ -19,7 +19,7 @@ I build real-time applications and AI-powered products with a focus on speed, pr
 
 ---
 
-## 🧠 Engineering Philosophy & Execution
+##  Engineering Philosophy & Execution
 
 * **Incremental Delivery:** I break complex builds into small, manageable tasks, keeping execution sharp and continuous.
 * **High-Leverage Tooling:** I leverage AI-native tools to write boilerplate, translate layouts to components, and scaffold tests. This allows me to ship full-stack projects in rapid 2-3 day sprints.
