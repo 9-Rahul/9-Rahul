@@ -53,7 +53,7 @@ I build real-time applications and AI-powered products with a focus on speed, pr
 
 ---
 
-## 🛠️ Stack & Technologies
+## Stack & Technologies
 
 * **Frameworks & Libraries:** Next.js (App Router), React 19, Node.js
 * **Styling & Animation:** Tailwind CSS, Custom CSS Variables, Framer Motion
