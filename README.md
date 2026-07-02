@@ -11,38 +11,60 @@
 
 ---
 
-I build things. Frontend-heavy full-stack apps -> fast, clean, and production-ready.
+I build real-time applications and AI-powered products with a focus on speed, precision, and robust architecture. My workflow is optimized for rapid execution:
 
-My instinct when something bothers me is to build a better version of it.  
-Gmail felt cluttered → [built a cleaner client](https://github.com/9-Rahul/custom-gmail).  
-Google Drive felt noisy → [stripped it down](https://github.com/9-Rahul/custom-drive).  
-Reading codebases felt painful → [built an AI that chats with them](https://github.com/9-Rahul/repo-lense).
-
----
-
-### What I Ship
-
-| Project | What it does |
-|---|---|
-| **[CaptainCRM](https://github.com/9-Rahul/captain-crm)** | AI agent that predicts customer churn using Stripe + Zendesk data |
-| **[Atrio CRM](https://github.com/9-Rahul/hotel-crm)** | Hotel CRM with an AI command palette - type a command, it handles the rest |
-| **[RepoLens](https://github.com/9-Rahul/repo-lense)** | Chat with any GitHub repo using vector search + Gemini AI |
-| **[Inboxara](https://github.com/9-Rahul/custom-gmail)** | Minimal Gmail client with AI email triage |
-| **[Drivana](https://github.com/9-Rahul/custom-drive)** | Hyper-minimal Google Drive client - speed over everything |
-| **[Exec Tracks](https://github.com/9-Rahul/progress-tracker)** | Habit tracker with streaks and shareable public reports |
-| **[Clipchamp Clone](https://github.com/9-Rahul/clipchamp-clone)** | Pixel-perfect enterprise UI reconstruction |
-| **[Kosmik UI](https://github.com/9-Rahul/kosmik-ui)** | Glassmorphism stress-test - pushed browser rendering limits |
+* **Gmail** felt cluttered → [built Inboxara (a cleaner client)](https://inboxara.vercel.app/).
+* **Google Drive** felt noisy → [built Drivana (a stripped-down client)](https://drivana-drive.vercel.app/).
+* **Reading codebases** felt painful → [built RepoLens (an AI repository chat assistant)](https://repo-lense-ai.vercel.app/).
 
 ---
 
-### Stack
+## 🧠 Engineering Philosophy & Execution
 
-`Next.js` `React` `JavaScript` `Node.js` `PostgreSQL` `MongoDB` `Prisma` `pgvector` `Gemini AI` `Firebase` `HTML & CSS`
+* **Incremental Delivery:** I break complex builds into small, manageable tasks, keeping execution sharp and continuous.
+* **High-Leverage Tooling:** I leverage AI-native tools to write boilerplate, translate layouts to components, and scaffold tests. This allows me to ship full-stack projects in rapid 2-3 day sprints.
+* **Strict Human Ownership:** While AI handles a significant portion of rote coding, I take absolute manual ownership over database schemas, security boundaries (OAuth, Stripe integrations), and complex state machines. Core business logic is never delegated.
+
+---
+
+## 🚀 Shipped Projects
+
+### Full-Stack Applications
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[RepoLens](https://repo-lense-ai.vercel.app/)** | Next.js, PostgreSQL, pgvector, Gemini AI, Prisma | Chat with any GitHub repository using AI and vector search. Features repository cloning, text chunking, and exact line-citation references. |
+| **[BidLive](https://live-auction-room.vercel.app/)** | Next.js, Firebase, Agora RTC/RTM, Zustand, React Query | Sub-second live-auction sync with host video streaming and instant bidding. |
+| **[CaptainCRM](https://captain-crm.vercel.app/)** | Next.js, PostgreSQL, Cohere AI, Stripe, Zendesk, Coral | Churn-prediction system with text-to-SQL functionality. |
+| **[Inboxara](https://inboxara.vercel.app/)** | Next.js, Gmail REST API, Firebase | A distraction-free Gmail client with AI-powered email triage and summary cards. |
+| **[Atrio CRM](https://atrio-crm.vercel.app/)** | Next.js, React 19, Prisma, MongoDB, Gemini AI | Lightning-fast hotel CRM driven by an interactive AI command palette. |
+| **[Drivana](https://drivana-drive.vercel.app/)** | Next.js, Google Drive API, Firebase, Gemini AI | Minimal Google Drive explorer client built for maximum file access speed. |
+| **[Exec Tracks](https://exec-tracks.vercel.app/)** | Next.js, MongoDB, Firebase | Accountability habit tracker documenting daily sprints. |
+| **[AI Chatbot](https://chatbot-test-five.vercel.app/)** | Next.js, MongoDB, Node.js | Lightweight custom socket-state chat architecture. |
+
+### Pixel-Perfect UI & Design Studies
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[Studio Arch](https://office-furniture-omega.vercel.app/)** | Next.js, CSS, Framer Motion | High-fidelity architectural-grade showcase layouts and workspace templates. |
+| **[Kosmik UI](https://kosmik-ui.vercel.app/)** | Next.js, CSS | Glassmorphism template rendering complex gradients and backdrop blur filters. |
+| **[Heptabase Landing Page](https://heptabase-ui.netlify.app/)** | React | Precision clone of Heptabase's marketing landing page. |
+| **[Notion Download Section](https://notion-download-section.netlify.app/)** | React | Clean clone of Notion's download segment interface. |
+
+---
+
+## 🛠️ Stack & Technologies
+
+* **Frameworks & Libraries:** Next.js (App Router), React 19, Node.js
+* **Styling & Animation:** Tailwind CSS, Custom CSS Variables, Framer Motion
+* **Database & ORM:** PostgreSQL, MongoDB, Prisma, pgvector
+* **APIs & Integrations:** Stripe, Zendesk, Agora RTC/RTM, Gmail REST API, Google Drive API, Firebase
+* **AI & Machine Learning:** Gemini AI, Cohere AI
 
 ---
 
 <div align="center">
   <a href="https://rahulthapliyal.com">Portfolio</a> ·
-  <a href="mailto:hii@rahulthapliyal.com">Email</a> ·
+  <a href="mailto:hello@rahulthapliyal.com">Email</a> ·
   <a href="https://www.linkedin.com/in/rahul-thapliyal-rt/">LinkedIn</a>
 </div>
